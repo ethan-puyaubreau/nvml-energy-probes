@@ -1,0 +1,8 @@
+GPU: NVIDIA GeForce RTX 3080 Ti | driver: 610.88
+24314 rounds in 20 s (about 0.82 ms per round)
+
+source    changes  median ms   p10 ms   p90 ms   min ms
+usage          26      998.2    497.2   1001.9    495.6
+instant        26      998.2    497.2   1001.9    495.6
+average        26      998.2    497.2   1001.9    495.6
+energy        200       99.9     99.5    100.5     99.2

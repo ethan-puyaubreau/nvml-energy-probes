@@ -1,0 +1,9 @@
+16000 CUPTI kernels; trace stream 13 runs fp32, 17 runs fp16
+
+model fitted on single-type blocks (65 windows, R2 0.999): idle 114 W, fp32 303 W, fp16 219 W per unit of occupancy
+
+block  occ fp32  occ fp16  union  counter W        model W  model - counter
+fp32       0.29      0.00   0.29   203.1 +/-22.7    203.4       +0.4
+fp16       0.00      0.11   0.11   135.0 +/- 6.4    138.1       +3.0
+both       0.30      0.12   0.38   218.5 +/-25.4    229.9      +11.4
+idle       0.00      0.00   0.00   109.6 +/- 6.5    114.4       +4.8

@@ -1,0 +1,48 @@
+t= 0.00 load=off usage= 168.6 instant= 141.7 average= 168.6
+t= 0.50 load=off usage= 140.2 instant= 118.9 average= 140.2
+t= 1.00 load=off usage= 129.4 instant= 110.1 average= 129.4
+t= 1.50 load=off usage= 111.1 instant= 110.2 average= 111.1
+t= 2.00 load=off usage= 110.2 instant= 110.0 average= 110.2
+t= 2.50 load=off usage= 110.1 instant= 110.1 average= 110.1
+t= 3.00 load=off usage= 110.0 instant= 110.1 average= 110.0
+t= 3.50 load=off usage= 110.1 instant= 110.0 average= 110.1
+t= 4.00 load=off usage= 110.1 instant= 110.0 average= 110.1
+t= 4.50 load=off usage= 109.8 instant= 109.8 average= 109.8
+t= 5.00 load=off usage= 109.8 instant= 109.8 average= 109.8
+t= 5.50 load=off usage= 110.0 instant= 110.3 average= 110.0
+t= 6.00 load=on  usage= 110.0 instant= 109.6 average= 110.0
+t= 6.50 load=on  usage= 109.7 instant= 109.7 average= 109.7
+t= 7.00 load=on  usage= 206.8 instant= 349.3 average= 206.8
+t= 7.50 load=on  usage= 316.4 instant= 344.3 average= 316.4
+t= 8.00 load=on  usage= 350.7 instant= 349.6 average= 350.7
+t= 8.50 load=on  usage= 350.9 instant= 351.2 average= 350.9
+t= 9.00 load=on  usage= 351.0 instant= 344.2 average= 351.0
+t= 9.50 load=on  usage= 351.0 instant= 350.9 average= 351.0
+t=10.00 load=on  usage= 350.4 instant= 344.7 average= 350.4
+t=10.50 load=on  usage= 351.1 instant= 350.6 average= 351.1
+t=11.00 load=on  usage= 350.6 instant= 345.4 average= 350.6
+t=11.50 load=on  usage= 351.3 instant= 352.5 average= 351.3
+t=12.00 load=on  usage= 350.5 instant= 346.7 average= 350.5
+t=12.50 load=on  usage= 351.2 instant= 353.2 average= 351.2
+t=13.00 load=on  usage= 350.3 instant= 341.4 average= 350.3
+t=13.50 load=on  usage= 351.3 instant= 352.7 average= 351.3
+t=14.00 load=on  usage= 350.1 instant= 344.4 average= 350.1
+t=14.50 load=on  usage= 350.7 instant= 352.3 average= 350.7
+t=15.00 load=on  usage= 350.3 instant= 342.4 average= 350.3
+t=15.50 load=on  usage= 351.0 instant= 348.3 average= 351.0
+t=16.00 load=off usage= 350.5 instant= 343.2 average= 350.5
+t=16.50 load=off usage= 350.8 instant= 351.3 average= 350.8
+t=17.00 load=off usage= 257.0 instant= 141.5 average= 257.0
+t=17.50 load=off usage= 161.6 instant= 140.2 average= 161.6
+t=18.00 load=off usage= 161.6 instant= 140.2 average= 161.6
+t=18.50 load=off usage= 139.2 instant= 112.6 average= 139.2
+t=19.00 load=off usage= 129.7 instant= 110.9 average= 129.7
+t=19.50 load=off usage= 110.9 instant= 110.5 average= 110.9
+t=20.00 load=off usage= 110.8 instant= 110.8 average= 110.8
+t=20.50 load=off usage= 110.8 instant= 110.8 average= 110.8
+t=21.00 load=off usage= 110.4 instant= 110.4 average= 110.4
+t=21.50 load=off usage= 110.4 instant= 110.4 average= 110.4
+t=22.00 load=off usage= 110.4 instant= 110.3 average= 110.4
+t=22.50 load=off usage= 110.4 instant= 110.3 average= 110.4
+t=23.00 load=off usage= 110.3 instant= 110.2 average= 110.3
+t=23.50 load=off usage= 110.3 instant= 110.2 average= 110.3

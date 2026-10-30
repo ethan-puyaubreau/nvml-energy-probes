@@ -1,0 +1,13 @@
+4001 CUPTI kernels, 4074 NVML samples, clock offset 1082078.999 s
+
+best lag 0.5 s, R2 0.920, 165 windows
+idle 120 W | fp32 255 W | membound 248 W | fp16 272 W per unit of occupancy
+
+block     duty  occupancy  counter W  model W  SM clock MHz
+fp32      0.25       0.40      242.9    221.2          1713
+fp32      0.50       0.83      321.0    331.3          1717
+membound  0.25       0.22      150.9    175.3          1770
+membound  0.50       0.46      228.0    234.7          2000
+fp16      0.25       0.30      172.4    201.4          1770
+fp16      0.50       0.60      304.7    282.4          1778
+idle      0.00       0.00      128.6    120.0          1925
